@@ -1,0 +1,30 @@
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\PageObject.deps.json
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\PageObject.dll
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\bin\Debug\net6.0\PageObject.pdb
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.AssemblyReference.cache
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfoInputs.cache
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfo.cs
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.CoreCompileInputs.cache
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.dll
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\refint\PageObject.dll
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\PageObject.pdb
+C:\Users\yaros\Documents\Тестування\LabsCode\Lab2\PageObject\obj\Debug\net6.0\ref\PageObject.dll
+D:\Лабораторні АСТПП\2\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\linux\selenium-manager
+D:\Лабораторні АСТПП\2\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\macos\selenium-manager
+D:\Лабораторні АСТПП\2\Lab2\PageObject\bin\Debug\net6.0\selenium-manager\windows\selenium-manager.exe
+D:\Лабораторні АСТПП\2\Lab2\PageObject\bin\Debug\net6.0\PageObject.deps.json
+D:\Лабораторні АСТПП\2\Lab2\PageObject\bin\Debug\net6.0\PageObject.dll
+D:\Лабораторні АСТПП\2\Lab2\PageObject\bin\Debug\net6.0\PageObject.pdb
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.AssemblyReference.cache
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\PageObject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfoInputs.cache
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\PageObject.AssemblyInfo.cs
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\PageObject.csproj.CoreCompileInputs.cache
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\PageObject.dll
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\refint\PageObject.dll
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\PageObject.pdb
+D:\Лабораторні АСТПП\2\Lab2\PageObject\obj\Debug\net6.0\ref\PageObject.dll
