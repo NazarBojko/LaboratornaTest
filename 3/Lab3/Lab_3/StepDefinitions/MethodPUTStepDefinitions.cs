@@ -17,7 +17,7 @@ namespace Lab3.StepDefinitions
         [When(@"make UpdateBooking request to the server")]
         public void WhenMakeUpdateBookingRequestToTheServer()
         {
-            RestRequest request = new RestRequest("booking/1007", Method.Put);
+            RestRequest request = new RestRequest("booking/3227", Method.Put);
             request.RequestFormat = DataFormat.Json;
             request.AddHeader("Content-Type", "application/json");
             request.AddHeader("Accept", "application/json");

@@ -15,7 +15,7 @@ namespace Lab3.StepDefinitions
         [When(@"make DeleteBooking request to the server")]
         public void WhenMakeDeleteBookingRequestToTheServer()
         {
-            RestRequest request = new RestRequest("booking/225", Method.Delete);
+            RestRequest request = new RestRequest("booking/4136", Method.Delete);
 
             client.Authenticator = new HttpBasicAuthenticator("admin", "password123");
 
